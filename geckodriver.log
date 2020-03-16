@@ -108,3 +108,82 @@ JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/BIVuj-c-7uQ.js?
 [Parent 5560, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
 [Parent 5560, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
 1584208130939	Marionette	INFO	Stopped listening on port 50477
+1584213502637	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HILCOM~1\\AppData\\Local\\Temp\\rust_mozprofile7yiqi4"
+1584213505991	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584213507360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584213507361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584213507361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584213507361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584213516933	Marionette	INFO	Listening on port 51374
+1584213517105	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4772, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584213551978	Marionette	INFO	Stopped listening on port 51374
+1584213639595	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HILCOM~1\\AppData\\Local\\Temp\\rust_mozprofileowSf1c"
+1584213642965	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584213644239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584213644239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584213644239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584213644240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584213671094	Marionette	INFO	Listening on port 51451
+1584213671531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584213717943	Marionette	INFO	Stopped listening on port 51451
+1584213976642	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HILCOM~1\\AppData\\Local\\Temp\\rust_mozprofileXlLnpF"
+1584213979125	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584213980295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584213980295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584213980295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584213980295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584213983234	Marionette	INFO	Listening on port 51554
+1584213983341	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5632, Gecko_IOThread] WARNING: file z:/task_1583748103/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1584214024270	Marionette	INFO	Stopped listening on port 51554
+1584214038490	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HILCOM~1\\AppData\\Local\\Temp\\rust_mozprofileaWOBEZ"
+1584214039216	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584214040323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584214040323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584214040323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584214040323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584214043183	Marionette	INFO	Listening on port 51618
+1584214043408	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1584214184297	Marionette	INFO	Stopped listening on port 51618
+1584214188134	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HILCOM~1\\AppData\\Local\\Temp\\rust_mozprofiledVtZ6r"
+1584214189779	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584214191089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584214191089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584214191089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584214191089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584214194064	Marionette	INFO	Listening on port 51692
+1584214194177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/BIVuj-c-7uQ.js?_nc_x=0uaJ44htsvT, line 63: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/BIVuj-c-7uQ.js?_nc_x=0uaJ44htsvT, line 63: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/BIVuj-c-7uQ.js?_nc_x=0uaJ44htsvT, line 63: unreachable code after return statement
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/BIVuj-c-7uQ.js?_nc_x=0uaJ44htsvT, line 63: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/BIVuj-c-7uQ.js?_nc_x=0uaJ44htsvT, line 63: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/BIVuj-c-7uQ.js?_nc_x=0uaJ44htsvT, line 63: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: http://www.taalimtice.ma/sites/default/files/js/js_aHeeLTqDNzpkKnnLfLUf7kYCKkGLnQkH-8xU3ajCifM.js, line 40: unreachable code after return statement
+JavaScript warning: http://www.taalimtice.ma/sites/default/files/js/js_aHeeLTqDNzpkKnnLfLUf7kYCKkGLnQkH-8xU3ajCifM.js, line 40: unreachable code after return statement
+JavaScript warning: http://www.taalimtice.ma/sites/default/files/js/js_aHeeLTqDNzpkKnnLfLUf7kYCKkGLnQkH-8xU3ajCifM.js, line 40: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1584215065732	Marionette	INFO	Stopped listening on port 51692
