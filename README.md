@@ -24,5 +24,9 @@ email = None
 passowrd = None
 ````
 
+## Do you want to collaborate?
+
+You can just add a new issue and I'll contact with you as I could to do !
+
 ## License
 MIT license
